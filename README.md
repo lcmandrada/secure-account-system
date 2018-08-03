@@ -11,7 +11,7 @@ A basic console application written in c++ with the following objectives:
 
 It hides and locks the files for security.  
 It implements shifting and reversal for encryption.  
-It employs the rand function for password generation.
+It employs the rand function for password generation.  
 Please consult the help section integrated in the program for more information.
 
 # Build
