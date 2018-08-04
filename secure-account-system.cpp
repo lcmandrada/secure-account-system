@@ -1,6 +1,6 @@
 /*
 Secure Account System
-Luke Clark Andrada
+Luke Clark M. Andrada
 
 Objectives
 	[1] to save a collection of account information
